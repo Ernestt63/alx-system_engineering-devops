@@ -1,1 +1,1 @@
-Solutions to Shell Basics
+This repository provides solutions to Shell Basics project/tasks
